@@ -1,0 +1,78 @@
+
+/*
+=================================================================
+                Global Semantic Elements
+=================================================================
+*/
+body {
+    margin: 0em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    margin: 0em;
+
+    color: white;
+    background-color: black;
+}
+
+nav {
+    margin: 0em;
+    display: grid;
+    grid-template-columns: 5fr 1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+
+    color: white;
+    background-color: black;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.whitespace{
+    color: black;
+    background-color: black;
+}
+
+ul {
+    list-style: none;
+    padding: 0em;
+    margin: 0em;
+}
+
+/*
+=================================================================
+                        Home Page
+=================================================================
+*/
+
+.home-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+/*
+=================================================================
+                        Tutors
+=================================================================
+*/
+
+.tutors-container {
+    display: flex;
+    /*color:orange*/
+}
+
+/*
+=================================================================
+                        Students
+=================================================================
+*/
+
+.students-container {
+    display: flex;
+    /*color: royalblue;*/
+}
+
