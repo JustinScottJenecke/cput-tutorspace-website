@@ -8,3 +8,9 @@ Online platfiorm for tutors to advertise their services, and for students to fin
     - linked pages to theme stylesheet
     - added initial layout structure for pages
     - added nav element
+# First Commit - 03-06-21 - Sihle Jijana
+   
+    - Created the tutor services block on home page
+        -Added the services offered by tutors
+        -Added a button linking to the tutors page
+        -Added an image 
