@@ -14,3 +14,10 @@ Online platfiorm for tutors to advertise their services, and for students to fin
         -Added the services offered by tutors
         -Added a button linking to the tutors page
         -Added an image 
+        
+# First Commit - 06-06-21 - Gaynor Jantjies
+    
+    - Created the student services block on home page
+        -Added the view list description 
+        -Added a button linking to the student page
+        -Added an image 
